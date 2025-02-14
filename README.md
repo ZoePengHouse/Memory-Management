@@ -1,29 +1,4 @@
----
-title: CS 537 Project 5
-layout: default
----
-
-<mark> 
-Update
-</mark>
-
-* Nov 13: test 21 updated
-
-<mark> 
-End updates
-</mark>
-
 # CS537 Fall 2024, Project 5
-```
-1
-```
-- **Collaboration**: 
-  
-  - The assignment may be done by **yourself or with one partner**. Copying code from anyone else is considered cheating. [Read this](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/dontcheat.html) for more info on what is OK and what is not. Please help us all have a good semester by not doing this.
-  - When submitting each project, you will submit a `partners.txt` file containing the cslogins of both people in the group. One cslogin per line. Do not add commas or any other additional characters.
-  - Only one person from the group needs to submit the project.
-  - Partners will receive the same grades for the project.
-  - Slip days will be deducted from both members of the group if used. If group members have unequal numbers of slip days, the member with the lower number of days will not be penalized.
 
 # xv6 Memory Mapping
 
