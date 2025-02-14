@@ -14,25 +14,6 @@ End updates
 </mark>
 
 # CS537 Fall 2024, Project 5
-
-## Administrivia 
-- **Due Date** by November 19, 2024 at 11:59 PM
-- **Questions**: We will be using Piazza for all questions.
-
-- This project is to be done on the [lab machines](https://csl.cs.wisc.edu/docs/csl/2012-08-16-instructional-facilities/), so you can learn more about programming in C on a typical UNIX-based platform (Linux).
-  
-- **Handing it in**:
-  -  Copy the whole project, including solution and tests folder, to ~cs537-1/handin/login/p5 where login is your CS login.  
-  -  Be sure to `make clean` before handing in your solution. 
-  -  Only one person from the group needs to submit the project.
-- **Slip Days**: 
-  - In case you need extra time on projects, you each will have 2 slip days for the final three projects. After the due date we will make a copy of the handin directory for on time grading. 
-  - To use a slip days or turn in your assignment late you will submit your files with an additional file that contains only a single digit number, which is the number of days late your assignment is(e.g 1, 2, 3). Each consecutive day we will make a copy of any directories which contain one of these slipdays.txt files. This file must be present when you submit you final submission, or we won't know to grade your code. 
-  - We will track your slip days and late submissions from project to project and begin to deduct percentages after you have used up your slip days.
-  - After using up your slip days you can get up to 90% if turned in 1 day late, 80% for 2 days late, and 70% for 3 days late, but for any single assignment we won't accept submissions after the third days without an exception. This means if you use both of your individual slip days on a single assignment you can only submit that assignment one additional day late for a total of 3 days late with a 10% deduction.
-  - Any exception will need to be requested from the instructors.
-
-  - Example slipdays.txt
 ```
 1
 ```
